@@ -1,7 +1,7 @@
 # BooleanAlgebra__DeepLearning
 BOOLEAN ALGEBRA: FROM DIGITAL CIRCUITS TO DEEP LEARNING APPLICATIONS © 2024 by Filipa Trindade Coito is licensed under CC BY-SA 4.0
 
-M.Sc Thesis in Biostatistic and Biometry Boolean Algebra: from Digital Circuits to Deep Learning Applications
+M.Sc Thesis in Biostatistic and Biometry: _Boolean Algebra: from Digital Circuits to Deep Learning Applications_
 
 
 ### **Abstract**
@@ -26,7 +26,7 @@ In conclusion, this research aims to underscore the critical role that Boolean a
 
 
 ### **Repository**
-Here is made available the Python script for the pratical experiments on Chapter 8.
+Here is made available the code for the pratical experiments presented on Chapter 8.
 
 
 
